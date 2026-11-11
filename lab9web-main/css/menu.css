@@ -1,0 +1,15 @@
+.menu {
+  display: inline-block;
+  margin-right: 16px;
+  margin-bottom: 8px;
+  color: navy;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.small {
+  color: #444444;
+  font-size: 12px;
+  font-style: italic;
+}

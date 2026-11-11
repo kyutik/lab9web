@@ -1,0 +1,25 @@
+.section-title {
+  color: navy;
+  font-family: Arial, sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 12px;
+}
+
+.text {
+  color: black;
+  font-size: 18px;
+  text-align: justify;
+  text-indent: 30px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.note {
+  color: darkgreen;
+  font-size: 14px;
+  font-style: italic;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}

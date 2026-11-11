@@ -1,0 +1,17 @@
+h2.study {
+  color: navy;
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+}
+
+h2.practice {
+  color: darkgreen;
+  font-size: 22px;
+  font-style: italic;
+}
+
+h2.rest {
+  color: darkred;
+  font-size: 20px;
+  text-decoration: underline;
+}
